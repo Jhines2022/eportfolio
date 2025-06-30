@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Central Hub of My Cyber Resources</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="index.html" class="logo"><strong>James</strong> <span>Hines</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="About.html">About</a></li>
+							<li><a href="Launch Module.html">Launching into Cyber Security</a></li>
+							<li><a href="module 2.html">Security and Risk Management</a></li>
+							<li><a href="module 3.html">Network security</a></li>
+							<li><a href="module 4.html">Secure Software Development</a></li>
+							<li><a href="module 5.html">Secure Systems Architecture</a></li>
+							<li><a href="Module 6.html">The Human Factor</a></li>
+							<li><a href="module 7.html">Principles of Digital Forensics and Cyber Law</a></li>
+							<li><a href="module 8.html">Research Methods and Professional Practice</a></li>
+							<li><a href="module 9.html">MSc Cyber Security Project</a></li>
+							<li><a href="study material.html">Books and articles of interest</a></li>
+							
+						</ul>
+						
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								<h1>Limited MSc Cybersecurity topics</h1>
+							</header>
+							<div class="content">
+								<p>The following content outlines some of (not all) the study topics covered in my MSc Cyber Security program</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+						
+							<section id="one" class="tiles">
+								<article>
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="Launch Module.html" class="link">Launching into cyber security</a></h3>
+										<p>Module 1 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 2.html" class="link">Security and Risk Management</a></h3>
+										<p>Module 2 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 3.html" class="link">Network Security</a></h3>
+										<p>Module 3 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 4.html" class="link">Secure Software Development</a></h3>
+										<p>Module 4 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 5.html" class="link">Secure Systems Architecture</a></h3>
+										<p>Module 5 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 6.html" class="link">The Human Factor</a></h3>
+										<p>Module 6 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 7.html" class="link">Principles of Digital Forensics and Cyber Law</a></h3>
+										<p>Module 7 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 8.html" class="link">Research Methods and Professional Practice</a></h3>
+										<p>Module 8 </p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="module 9.html" class="link">MSc Cyber Security Project</a></h3>
+										<p>Module 9</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="compiled papers and projects.html" class="link">Compiled Papers and Projects</a></h3>
+										<p> Projects </p>
+									</header>
+								</article>
+							</section>
+
+						<!-- End of module section -->
+							
+
+					</div>
+
+				<!-- Contact -->
+					
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
